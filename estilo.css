@@ -1,6 +1,11 @@
 body{
-    background-color: black;
+    background-image: url(imagens/space-stars-nebula-wallpaper-preview.jpg);
 }
 h1{
-    color: blueviolet;
+    color: rgb(0, 102, 255);
+    text-align: center;
+}
+h2{
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
 }
